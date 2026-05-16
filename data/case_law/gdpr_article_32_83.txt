@@ -1,0 +1,7 @@
+General Data Protection Regulation (GDPR)
+
+Article 32: Security of Processing
+Taking into account the state of the art, the costs of implementation and the nature, scope, context and purposes of processing, the controller and the processor shall implement appropriate technical and organisational measures to ensure a level of security appropriate to the risk, including inter alia as appropriate: the pseudonymisation and encryption of personal data.
+
+Article 83: General conditions for imposing administrative fines
+Infringements of the basic principles for processing, including conditions for consent, are subject to administrative fines up to 20,000,000 EUR, or in the case of an undertaking, up to 4 % of the total worldwide annual turnover of the preceding financial year, whichever is higher.

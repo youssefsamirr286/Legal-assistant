@@ -1,0 +1,9 @@
+SUPPLY AGREEMENT
+
+This Supply Agreement is made between Alpha Corp ("Buyer") and BetaSupply ("Supplier"), signed in 2018.
+
+Term: 3 years.
+Obligations: BetaSupply shall deliver components according to the schedule.
+
+Force Majeure Clause:
+Neither party shall be liable for any failure or delay in performance under this Agreement due to causes beyond its reasonable control, including but not limited to natural disasters, acts of God, and governmental action. This clause does not cover pandemics or widespread disease.

@@ -1,0 +1,28 @@
+# Secrets & local env
+.env
+.env.local
+*.pem
+
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+
+# Project artifacts (rebuilt locally)
+faiss_index/
+.pytest_cache/
+.streamlit/
+
+# Generated evaluation outputs
+tests/evaluation_results.json
+tests/evaluation_report.md
+tests/provider_benchmark.json
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.idea/

@@ -1,0 +1,4 @@
+Liquidated Damages vs Penalty Precedents
+
+US Courts: A liquidated damages clause is enforceable if it is a genuine pre-estimate of loss at the time of contracting and actual damages are difficult to ascertain. If the amount is disproportionate to the expected loss, it is deemed an unenforceable penalty.
+English Courts (Cavendish Square): The test is whether the provision is a secondary obligation which imposes a detriment out of all proportion to any legitimate interest of the innocent party.

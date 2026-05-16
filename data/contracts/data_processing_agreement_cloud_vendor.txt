@@ -1,0 +1,8 @@
+DATA PROCESSING AGREEMENT
+
+Parties: European Fintech Company (Controller) and Cloud Vendor (Processor)
+
+Security Measures:
+The Processor agrees to implement industry-standard security measures to protect Personal Data. However, specific encryption requirements are not mandated under this section.
+Liability Cap:
+The total liability of the Processor for any breach of this DPA shall not exceed $1,000,000.

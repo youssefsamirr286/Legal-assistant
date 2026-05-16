@@ -1,0 +1,10 @@
+EMPLOYMENT AGREEMENT
+
+Employee: Software Engineer
+Location: California
+
+Non-Compete Clause:
+During the term of this Agreement and for a period of two (2) years thereafter, the Employee agrees not to engage in or work for any competitor in the SaaS industry anywhere within the United States.
+
+Choice of Law:
+This Agreement shall be governed by and construed in accordance with the laws of the State of Texas, without giving effect to any choice of law principles.

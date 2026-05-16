@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "Force Majeure in Supply Chain Contracts",
+    "query": "Does COVID-19 qualify as force majeure under a supply contract clause listing natural disasters and governmental action?"
+  },
+  {
+    "id": 2,
+    "name": "Non-Compete Clause Enforceability",
+    "query": "Enforceability of non-compete clauses under California Business and Professions Code Section 16600 for tech employees"
+  },
+  {
+    "id": 3,
+    "name": "GDPR Data Breach Liability",
+    "query": "GDPR Article 32 security obligations for cloud data processors and liability under data processing agreements"
+  },
+  {
+    "id": 4,
+    "name": "Intellectual Property Ownership in Employment",
+    "query": "Employee IP assignment clause enforceability for inventions developed on personal time under California Labor Code 2870"
+  },
+  {
+    "id": 5,
+    "name": "Liquidated Damages vs. Penalty Clauses",
+    "query": "Liquidated damages clause enforceability test genuine pre-estimate of loss versus unenforceable penalty clause"
+  },
+  {
+    "id": 6,
+    "name": "SaaS Subscription Auto-Renewal Dispute",
+    "query": "Auto-renewal clause enforceability conspicuous notice requirement SaaS enterprise contracts electronic signature"
+  },
+  {
+    "id": 7,
+    "name": "Wrongful Termination and At-Will Employment",
+    "query": "Whistleblower retaliation wrongful termination at-will employment exceptions Sarbanes-Oxley private company"
+  },
+  {
+    "id": 8,
+    "name": "Construction Contract Disputes: Scope Creep",
+    "query": "Construction contract change order validity verbal instructions scope of work dispute unjust enrichment"
+  },
+  {
+    "id": 9,
+    "name": "Confidentiality Breach and Trade Secrets",
+    "query": "Trade secret misappropriation customer list Defend Trade Secrets Act injunctive relief departing employee"
+  },
+  {
+    "id": 10,
+    "name": "Arbitration Clause Unconscionability",
+    "query": "Mandatory arbitration clause class action waiver unconscionability consumer contracts small value claims"
+  }
+]
